@@ -1,0 +1,5 @@
+.idea/
+__pycache__/
+*.json
+temp_data/
+text_to_time.txt
